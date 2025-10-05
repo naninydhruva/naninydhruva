@@ -80,34 +80,6 @@ _Leveraging generative AI with effective prompting to accelerate development and
 - **Flutter Certified Developer** - Android ATC
 - **Microsoft Azure Fundamentals** - Microsoft
 
-## 💼 Featured Projects
-
-### 🌸 Period Wellness Application (June 2022 - Present)
-
-**A comprehensive wellness app improving women's menstrual health**
-
-- **Tech Stack**: Flutter, Ionic + Angular, Custom APIs
-- **Features**: Cycle tracking, predictive insights, reward system, secure notifications
-- **Impact**: 25% increase in user engagement
-- **Highlights**:
-  - Migrated from Ionic to Flutter for enhanced UX
-  - Implemented TDD and clean architecture
-  - Integrated secure third-party SDKs with encryption
-  - Built custom prediction engine with dynamic messaging
-
-### 🌐 Period Wellness Website (Feb 2025 - Aug 2025)
-
-**Responsive website delivering curated health content**
-
-- **Tech Stack**: Next.js, Tailwind CSS, Contentful CMS, TypeScript
-- **Features**: Product recommendations, GTM integration, responsive design
-- **Impact**: Enhanced user engagement through personalized content
-- **Highlights**:
-  - Built intuitive period tracker with React components
-  - Optimized performance with GTM script loading
-  - Integrated GA4 clickstream tracking
-  - Collaborated with content teams for dynamic updates
-
 ## 📊 GitHub Stats
 
 <div align="center">
