@@ -1,7 +1,7 @@
 # Hi there - I'm Chilakamarri Srinikethan Nydhruva 💼
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+LTIMindtree;Mobile+%26+Web+Application+Developer;Flutter+%7C+React.js+%7C+Next.js+Expert;DevOps+%26+CI%2FCD+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+LTM;Mobile+%26+Web+Application+Developer;Flutter+%7C+React.js+%7C+Next.js+Expert;DevOps+%26+CI%2FCD+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
